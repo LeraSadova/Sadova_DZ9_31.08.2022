@@ -7,7 +7,7 @@ Console.WriteLine("выведем все натуральные числа из 
 //Задаем промежуток
 Console.Write("Введи первое целое число n: ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введи первое целое число m: ");
+Console.Write("Введи второе целое число m: ");
 int m = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine($"в промежутке между числами n={n} и m={m}");
